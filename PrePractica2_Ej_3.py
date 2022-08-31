@@ -12,5 +12,5 @@ try:
 except ZeroDivisionError as exception:
     print(f"Ha ocurrido un error | {exception}")
 finally:
-    print("Proceso finalizado " + str(resultado))
+    print("Proceso finalizado " + str(resultado)) 
 #FIN
